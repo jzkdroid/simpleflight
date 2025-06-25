@@ -17,7 +17,7 @@ fare_level: optional. Defaults to economy. Other options: "first", "premium_busi
 """
 
 sabre_url = "https://api-crt.cert.havail.sabre.com/v4/offers/shop"
-auth_token = "T1RLAQLTVBLaX6y2wmWiXMq1qqMglDsjAHL6fTqRG9lfrn70SRB1F2TJW5gvnfZtgOTD46VKAADgzA7hGAIb6ACED4l/W/0hh6yXhnQOM7r+SUHnXZjpfZcHV2TtRh1WatvAkaI83bapgMV4cBJDHSs7MWZhLiZzOvIot0vv9MJ7pS8MkFLK1UkCgsvsrY+euBEvGhkjzpMM9XcTyWkCifIE2DfcyItcD8lcjoo/+hU/1IjrL1HmZOKpl21w1LjMxyFihgUhekSr4z4pJcdQvmmERJUg5U2r6dLbtaj38++NGZKMLkKgvQA7rV7zIUUAZrrzVWXsnDGtiE5ZHnmlucssGTBltmVVBMd1mHGSdlHwhSJ0kGJYK9c*"
+auth_token = ""
 
 
 
